@@ -1,3 +1,8 @@
+> [!WARNING]
+> ⚠️ **暂停维护说明**
+>
+> 该工程已不再维护。
+
 # 融云 RongCloud Web IM SDK v2.0
 
 ## Environment Setup
@@ -35,4 +40,4 @@ grunt release
 
 ### 使用
 
-拷贝 `dist` 目录下 RongIMLib.js 至项目，用法请参考参考 [WebSDK 开发指南](http://rongcloud.cn/docs/web.html) 
+拷贝 `dist` 目录下 RongIMLib.js 至项目，用法请参考参考 [WebSDK 开发指南](http://rongcloud.cn/docs/web.html)
